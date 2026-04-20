@@ -20,4 +20,4 @@ A simple web app built with **HTML**, **CSS**, and **JavaScript** that removes i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/samikshajain29/Background-remover.git
+   git clone https://github.com/sagarjain3/Background-remover.git
